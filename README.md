@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **reactjs, angular**
 
 - 📫 How to reach me **anmolgupta1288@gmail.com**
+![JXA0](https://user-images.githubusercontent.com/91651130/196770903-4be8de70-5d37-4504-968a-da6aa58237cd.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
