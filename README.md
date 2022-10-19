@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **anmolgupta1288@gmail.com**
 
-https://media.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.gif
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anmol-gupta-b6790b215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol-gupta-b6790b215" height="30" width="40" /></a>
